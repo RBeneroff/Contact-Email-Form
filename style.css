@@ -1,0 +1,62 @@
+body {
+  color: #476AB2;
+  text-align: center;
+  margin: 0 8vh 0 8vh;
+}
+
+.form {
+  background-color: #FF8972;
+  padding: 5vh;
+}
+
+input {
+  background: rgba(255,255,255,.1);
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  margin: 0;
+  outline: 0;
+  padding: 7px;
+  width: 60vh;
+  min-width: 22%;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  background-color: white;
+  color:#8a97a0;
+  -webkit-box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+  margin-bottom: 30px;
+}
+
+.message {
+  background: rgba(255,255,255,.1);
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  margin: 0;
+  outline: 0;
+  padding: 7px;
+  width: 80vh;
+  min-width: 22%;
+  height: 20vh;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  background-color: white;
+  color:#8a97a0;
+  -webkit-box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+  margin-bottom: 30px;
+}
+
+.button {
+  width: 20vh;
+  height: 10vh;
+  box-shadow: 0 0 20px 0 rgba(0,0,0,.3);
+  border-radius: 5px;
+  background-color: #476AB2;
+  border-width: 0px;
+  color: white;
+  font-size: 16px;
+}
